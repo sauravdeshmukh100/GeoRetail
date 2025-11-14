@@ -1,0 +1,56 @@
+
+╔═══════════════════════════════════════════════════════════════╗
+║            PLOTLY DASH DASHBOARD - RUN INSTRUCTIONS           ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📊 DASHBOARD FEATURES:
+
+✅ Interactive Map with Multiple Layers
+   - Suitability Score
+   - Population Density
+   - Competition Level
+   - Amenity Score
+   - Road Accessibility
+
+✅ Top 10 Locations Ranking
+   - Click-through details
+   - Real-time filtering
+
+✅ Classification Distribution
+   - Visual breakdown of suitability classes
+
+✅ Criteria Comparison Charts
+   - Top 5 locations analysis
+   - Multi-criteria visualization
+
+✅ Market Analysis
+   - Population vs Competition scatter
+   - Market concentration histogram
+
+🚀 HOW TO RUN:
+
+1. Save this script as: dashboard_app.py
+
+2. Install required packages (if not already installed):
+   pip install dash plotly geopandas pandas
+
+3. Run the dashboard:
+   python dashboard_app.py
+
+4. Open browser and go to:
+   http://127.0.0.1:8050/
+
+5. Interact with the dashboard:
+   - Toggle map layers
+   - Explore different visualizations
+   - Analyze top locations
+
+📝 NOTES:
+
+- Dashboard runs on port 8050 by default
+- All data is loaded from processed files
+- Interactive and real-time updates
+- Professional presentation-ready
+- Warnings suppressed for cleaner output
+
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gemini_coimbatore_boundary_clean",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Expanded Coimbatore City Boundary", "area_km2": 444.62619194505714, "perimeter_km": 77.740636864839601, "created_date": "2025-09-30", "source": "custom_polygon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 76.92, 11.121 ], [ 76.969, 11.13 ], [ 77.001, 11.121 ], [ 77.031, 11.133 ], [ 77.06, 11.109 ], [ 77.078, 11.077 ], [ 77.074, 11.036 ], [ 77.086, 11.0 ], [ 77.051, 10.963 ], [ 77.014, 10.931 ], [ 76.98, 10.916 ], [ 76.94, 10.915 ], [ 76.911, 10.944 ], [ 76.883, 10.982 ], [ 76.868, 11.02 ], [ 76.877, 11.066 ], [ 76.901, 11.097 ], [ 76.92, 11.121 ] ] ] } }
+]
+}
